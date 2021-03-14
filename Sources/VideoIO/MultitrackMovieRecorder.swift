@@ -1,6 +1,7 @@
 import AVFoundation
 import CoreImage
 
+@available(tvOS 10.0, *)
 @available(iOS 11.0, macOS 10.14, *)
 public final class MultitrackMovieRecorder {
     
